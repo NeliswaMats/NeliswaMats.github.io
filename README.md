@@ -1,4 +1,4 @@
-# Business Analyst/ Product Manager
+# Product Manager | Senior Business Analyst | Product Thinker | Fintech Curious
 
 #### Technical Skills: Python, SQL, Excel, R, Java, Microsoft VBA, and Tableau 
 
