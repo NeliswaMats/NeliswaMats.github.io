@@ -29,7 +29,7 @@ layout: default
 
 
 ## Projects
-## [Rental bike analysis](/https://github.com/NeliswaMats/NeliswaMats.github.io/blob/1bb46c4e6b5a3e6ffabd07b04b269a4798c372a8/BIkeRentalsPage.md)
+## [Rental bike analysis](/BIkeRentalsPage.md)
 
 
 Conducted analysis in Python on the study of bike rental volumes, accounting for temperature and weather conditions.
