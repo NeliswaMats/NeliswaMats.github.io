@@ -1,17 +1,17 @@
-# Bike Rentals 
+#  Bike Rentals 
 
 *Introduction:*
 
 We have been provided with bike rental data collected over a period of time. The goal of this analysis is to uncover patterns in bike rental usage and help guide the company’s stakeholders to make informed strategic decisions. This is vital information for a bike company as it helps them identify the environmental factors affects demand and therefore revenue. This analysis is also important inorder to inform the company who are their primary users and understanding their reasons for renting bikes. This enables the company to better serve their needs, improve retention and shape user behavior in a favorable way.
 The dataset includes hourly rental data along with  such as temperature, humidity, weather conditions, and holidays. Research has shown that weather conditions significantly impact bike sharing demand, with cold temperatures, rain, and high humidity levels reducing both the likelihood of bike rentals and trip duration (Gebhart & Noland, 2014). Through data analysis and visualizations and pattern recognitions this report addresses business critical questions about user behaviour, optional rental conditions and then concludes with strategic recommendations. 
 
-Top 3 Insights
+*Top 3 Insights*
 
 Average Bike Rentals by Hour of the Day - This is a line plot that shows bike rentals on an hourly bases. It peaks between 8–9 AM and 5–6 PM which are typical urban commute times. This indicates that users are likely relying on bikes to commute to and from work or school. Rental volumes are lowest during early morning and late evening hours. Understanding the hourly trend can help with the business optimizing availability using peak windows therefore enhancing user satisfaction and operational efficiency.
 Average Rentals by Temperature Range - Rental volumes increase as temperature increases, then drop at high temperatures. The peak is observed between 15°C and 25°C. Temperatures below 5°C result in low bike rentals, possibly due to discomfort and safety concerns (Gebhart & Noland, 2014). This finding confirms that moderate warm weather is ideal for bike usage. The business can consider scheduling fleet maintenance and fleet readiness  during colder months when demand is expected to be lower. 
 Average Rentals by Humidity Range - As humidity increases, rentals decline. The most favorable rental activity occurs when humidity is below 60,% with a sharp decline a higher levels. High humidity likely signals discomfort or the likelihood of rain (Gebhart & Noland, 2014). This insight suggests that low humidity days are high opportunity days for targeted marketing or bulk discounts. Conversely, humidity levels can inform reduced staffing or inventory redistribution.
 
-Business Questions
+*Business Questions*
 1. Why are the majority of users renting bicycles?
 From the data, we can observe that the peaks on weekdays (highest observations from Monday to Friday) are at 8am, 5pm and 6pm. This is consistent with the times people usually commute to work. It therefore suggests that bikes are being rented inorder to commute to and from the office or school. It is also worth noting that rental volumes are consistently higher during the weekday than on weekends, reinforcing my point that bikes are being rented primarily as a mode of transport (functional) purpose rather than for recreational purposes. Studies confirm that bike share integration with transit systems is often aimed at commute purposes with metro/subway proximity significantly associated with high weekday rides( El-Assi et al, 2017)
 To further emphasize that recreational purposes is not the primary need for bikes, holidays shows significantly lower rental volumes compared to regular weekdays. If recreation was the primary driver, we would expect that rental volumes would rise during holidays when people have more free time. Instead the opposite occurs, indicating that the majority of the users rent bikes for commuting to school or work.
@@ -26,11 +26,11 @@ Firstly, they should consider launching a commuter-focused subscription model wi
 Second action,  the company should adopt dynamic pricing based on real-time weather conditions. Research demonstrates that innovative pricing schemes can effectively attract users and optimize system performance. (Zhang et al., 2019). For example, increase prices slightly on high-demand days with ideal weather and offer incentives or lower prices on colder or wetter days to encourage usage.
 In the long term, the company can consider using weather APIs and traffic data to develop predictive models to forecast demand and offer day and time-based discounts in advance, and perhaps even align their fleet and staff management to ensure enough bikes are available on high-demand days.
 
-Conclusion:
+*Conclusion:*
 
 This analysis reveals that bike rentals are primarily driven by weekday commuting needs, with clear peaks during traditional rush hours. Moderate temperatures and low humidity significantly boost demand, while adverse weather suppresses usage. These insights emphasize the importance of aligning business operations with both temporal and environmental trends. Strategic actions such as dynamic pricing, targeted promotions and flexible staffing can help the business make the most of high demand periods while mitigating dips. In the long term, integrating real time weather data and predictive user models to further enhance planning and resource allocation.
 
-References
+*References*
 1. Gebhart, K., & Noland, R. B. (2014). The impact of weather conditions on bikeshare trips in Washington, DC. Transportation, 41(6), 1205-1225.
 2. El-Assi, W., Mahmoud, M. S., & Habib, K. N. (2017). Effects of built environment and weather on bike sharing demand: A station level analysis of commercial bike sharing in Toronto. Transportation, 44(3), 589-613.
 3. Zhang, J., Wang, Z., & Meng, M. (2019). A dynamic pricing scheme with negative prices in dockless bike sharing systems. Transportation Research Part B: Methodological, 127, 201-224.
