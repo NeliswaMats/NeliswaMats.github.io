@@ -29,8 +29,7 @@ layout: default
 
 
 ## Projects
-#### [Rental bike analysis] (https://github.com/NeliswaMats/NeliswaMats.github.io/blob/9af90fd259ec4168d797eda66e396c1a432343e8/BIkeRentalsPage.md)
-
+#### [Rental bike analysis]
 Conducted analysis in Python on the study of bike rental volumes, accounting for temperature and weather conditions.
 
 ## Other Certifications & Technical Qualifications 
