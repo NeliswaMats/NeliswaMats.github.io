@@ -1,4 +1,4 @@
-# Business Analyst/ Product Manager1
+# Business Analyst/ Product Manager
 
 #### Technical Skills: Python, SQL, Excel, R, Java, Microsoft VBA, and Tableau 
 
