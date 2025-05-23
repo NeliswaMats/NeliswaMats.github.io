@@ -24,11 +24,8 @@
 
 
 ## Projects
-#### Single Accounting Principles
-a 2-year project that enabled the streamlined and enforcement of single accounting of various portfolio types into a unified method of accounting across the company's back office
-#### Manager System rewrite
-I led the redesign of the company's manager system method of accounting across all IT infrastructure, while correcting all legacy errors
-#### Rental bike analysis BIkeRentalsPage
+#### [Rental bike analysis] (https://github.com/NeliswaMats/NeliswaMats.github.io/blob/9af90fd259ec4168d797eda66e396c1a432343e8/BIkeRentalsPage.md)
+
 Conducted analysis in Python on the study of bike rental volumes, accounting for temperature and weather conditions.
 
 ## Other Certifications & Technical Qualifications 
